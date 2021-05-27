@@ -1,2 +1,2 @@
-# sample-flask-app
-A sample flask app to be used for deploying anywhere as a demo
+**Hello World Flask App**
+A simple flask app to be used for deploying on azure
